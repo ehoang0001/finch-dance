@@ -17,10 +17,8 @@ This project uses a Finch 2.0 robot programmed in Java to complete the dancine r
 ##  Design Choices
 
 * Chose the dance routine because: it was simple, innovative, and fun.
-* Used the following OOP concepts:
+* Used these concepts:
 
-  *  Loops (for, while)
-  *  Conditional statements (if/else)
   *  Arrays / ArrayLists
   *  Static methods or constants
   *  User input
