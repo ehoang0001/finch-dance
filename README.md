@@ -16,16 +16,13 @@ This project uses a Finch 2.0 robot programmed in Java to complete the dancine r
 
 ##  Design Choices
 
-* We chose the dance routine because: it was simple, innovative, and fun.
+ We chose the dance routine because: it was simple, innovative, and fun.
 * Used these concepts:
 
   *  Arrays / ArrayLists
   *  Static methods or constants
   *  User input
 
-We stored dance moves in an array and used a loop to repeat them in sync with light or sound.
-
----
 
 ##  Challenges & Solutions
 
