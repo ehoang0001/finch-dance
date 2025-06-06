@@ -9,7 +9,7 @@ This project uses a Finch 2.0 robot programmed in Java to complete the dancine r
 ##  Objectives
 
 * Apply Java to real world creativity
-* Implement robot behavior using the Finch API
+* Implement robot behavior using Finch
 * Practice problem-solving and debugging in a computing environment
 
 ---
