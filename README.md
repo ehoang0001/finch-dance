@@ -1,12 +1,12 @@
 # Finch Robot Project – Dance Project
 
-## 📌 Project Description
+##  Project Description
 
 This project uses a Finch 2.0 robot programmed in Java to complete the dancine routine challenge. The robot uses movement and sensors to create an interactive behavior.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Apply Java to real world creativity
 * Implement robot behavior using the Finch API
@@ -14,7 +14,7 @@ This project uses a Finch 2.0 robot programmed in Java to complete the dancine r
 
 ---
 
-## 🧠 Design Choices
+##  Design Choices
 
 * Chose the dance routine because: it was simple, innovative, and fun.
 * Used the following OOP concepts:
@@ -29,7 +29,7 @@ We stored dance moves in an array and used a loop to repeat them in sync with li
 
 ---
 
-## 🛠️ Challenges & Solutions
+## 🛠 Challenges & Solutions
 
 **Challenge 1**: Robot drifted when turning or moving fast
 
@@ -41,7 +41,7 @@ We stored dance moves in an array and used a loop to repeat them in sync with li
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Add more user input controls
 * Improve sensor accuracy
@@ -50,7 +50,7 @@ We stored dance moves in an array and used a loop to repeat them in sync with li
 
 ---
 
-## 📷 Media
+##  Media
 
 ![Robot in action](https://cdn.discordapp.com/attachments/1360147801597546597/1380639531086381138/IMG_6464.jpg?ex=68449c43&is=68434ac3&hm=1ba75f22e3dc6ac2829b76bdd76f32bcd3b81fa3e3006a774e71296452c55203&)
 
