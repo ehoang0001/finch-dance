@@ -19,17 +19,17 @@ This project uses a Finch 2.0 robot programmed in Java to complete the dancine r
 * Chose the dance routine because: it was simple, innovative, and fun.
 * Used the following OOP concepts:
 
-  * [ ] Loops (for, while)
-  * [ ] Conditional statements (if/else)
-  * [ ] Arrays / ArrayLists
-  * [ ] Static methods or constants
-  * [ ] User input
+  *  Loops (for, while)
+  *  Conditional statements (if/else)
+  *  Arrays / ArrayLists
+  *  Static methods or constants
+  *  User input
 
 We stored dance moves in an array and used a loop to repeat them in sync with light or sound.
 
 ---
 
-## 🛠 Challenges & Solutions
+##  Challenges & Solutions
 
 **Challenge 1**: Robot drifted when turning or moving fast
 
